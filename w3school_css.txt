@@ -1,0 +1,492 @@
+ CSS Properties
+-----------------------
+Box Model:
+	Content:
+		Fonts:
+			font-family
+			font-style
+			font-weight
+			font-variant
+			font-size
+			font
+			
+		Text:
+			color
+			
+			text-align
+			text-align-last
+			direction
+			unicode-bidi
+			vertical-align
+			
+			text-decoration-line
+			text-decoration-color
+			text-decoration-style
+			text-decoration-thickness
+			text-decoration
+			
+			text-transform
+			
+			text-indent
+			letter-spacing
+			line-height
+			word-spacing
+			white-space
+			
+			text-shadow
+
+		Icons:
+		
+	Height/Width:
+		height	Sets the height of an element
+		max-height	Sets the maximum height of an element
+		max-width	Sets the maximum width of an element
+		min-height	Sets the minimum height of an element
+		min-width	Sets the minimum width of an element
+		width	Sets the width of an element
+		
+	Backround:
+		background-color
+		background-image
+		background-repeat
+		background-attachment
+		background-position
+		background
+		background-clip
+		background-origin
+		background-size
+		opacity
+		
+	Borders:
+		border	Sets all the border properties in one declaration
+		border-bottom	Sets all the bottom border properties in one declaration
+		border-bottom-color	Sets the color of the bottom border
+		border-bottom-style	Sets the style of the bottom border
+		border-bottom-width	Sets the width of the bottom border
+		border-color	Sets the color of the four borders
+		border-left	Sets all the left border properties in one declaration
+		border-left-color	Sets the color of the left border
+		border-left-style	Sets the style of the left border
+		border-left-width	Sets the width of the left border
+		border-radius	Sets all the four border-*-radius properties for rounded corners
+		border-right	Sets all the right border properties in one declaration
+		border-right-color	Sets the color of the right border
+		border-right-style	Sets the style of the right border
+		border-right-width	Sets the width of the right border
+		border-style	Sets the style of the four borders
+		border-top	Sets all the top border properties in one declaration
+		border-top-color	Sets the color of the top border
+		border-top-style	Sets the style of the top border
+		border-top-width	Sets the width of the top border
+		border-width	Sets the width of the four borders
+
+	Padding:
+		padding	A shorthand property for setting all the padding properties in one declaration
+		padding-bottom	Sets the bottom padding of an element
+		padding-left	Sets the left padding of an element
+		padding-right	Sets the right padding of an element
+		padding-top	Sets the top padding of an element
+
+
+	Margin:
+		margin	A shorthand property for setting all the margin properties in one declaration
+		margin-bottom	Sets the bottom margin of an element
+		margin-left	Sets the left margin of an element
+		margin-right	Sets the right margin of an element
+		margin-top	Sets the top margin of an element
+	
+	Outline:
+		outline	A shorthand property for setting outline-width, outline-style, and outline-color in one declaration
+		outline-color	Sets the color of an outline
+		outline-offset	Specifies the space between an outline and the edge or border of an element
+		outline-style	Sets the style of an outline
+		outline-width	Sets the width of an outline
+	
+	Display:
+	
+	Position:
+	
+
+Links:
+	Selectors:
+		a:link - a normal, unvisited link
+		a:visited - a link the user has visited
+		a:hover - a link when the user mouses over it
+		a:active - a link the moment it is clicked
+	Cursor:
+		cursor
+
+Lists:
+
+Tables:
+
+
+
+---------------------------------------------------------------------------------------------------------
+
+
+formats:
+	wyglad
+		accent-color: "https://www.w3schools.com/cssref/css4_pr_accent-color.php 
+flex:
+	align-content': "https://www.w3schools.com/cssref/css3_pr_align-content.php"
+	align-items': "https://www.w3schools.com/cssref/css3_pr_align-items.php"
+	align-self': "https://www.w3schools.com/cssref/css3_pr_align-self.php"
+
+	
+all
+animation
+animation-delay
+animation-direction
+animation-duration
+animation-fill-mode
+animation-iteration-count
+animation-name
+animation-play-state
+animation-timing-function
+aspect-ratio
+backdrop-filter
+backface-visibility
+background
+background-attachment
+background-blend-mode
+background-clip
+background-color
+background-image
+background-origin
+background-position
+background-position-x
+background-position-y
+background-repeat
+background-size
+block-size
+border
+border-block
+border-block-color
+border-block-end
+border-block-end-color
+border-block-end-style
+border-block-end-width
+border-block-start
+border-block-start-color
+border-block-start-style
+border-block-start-width
+border-block-style
+border-block-width
+border-bottom
+border-bottom-color
+border-bottom-left-radius
+border-bottom-right-radius
+border-bottom-style
+border-bottom-width
+border-collapse
+border-color
+border-end-end-radius
+border-end-start-radius
+border-image
+border-image-outset
+border-image-repeat
+border-image-slice
+border-image-source
+border-image-width
+border-inline
+border-inline-color
+border-inline-end
+border-inline-end-color
+border-inline-end-style
+border-inline-end-width
+border-inline-start
+border-inline-start-color
+border-inline-start-style
+border-inline-start-width
+border-inline-style
+border-inline-width
+border-left
+border-left-color
+border-left-style
+border-left-width
+border-radius
+border-right
+border-right-color
+border-right-style
+border-right-width
+border-spacing
+border-start-end-radius
+border-start-start-radius
+border-style
+border-top
+border-top-color
+border-top-left-radius
+border-top-right-radius
+border-top-style
+border-top-width
+border-width
+bottom
+box-decoration-break
+box-reflect
+box-shadow
+box-sizing
+break-after
+break-before
+break-inside
+caption-side
+caret-color
+@charset
+clear
+clip
+clip-path
+
+color-scheme
+column-count
+column-fill
+column-gap
+column-rule
+column-rule-color
+column-rule-style
+column-rule-width
+column-span
+column-width
+columns
+@container
+content
+counter-increment
+counter-reset
+counter-set
+@counter-style
+cursor
+direction
+display
+empty-cells
+filter
+flex
+flex-basis
+flex-direction
+flex-flow
+flex-grow
+flex-shrink
+flex-wrap
+float
+font
+@font-face
+font-family
+font-feature-settings
+font-kerning
+@font-palette-values
+font-size
+font-size-adjust
+font-stretch
+font-style
+font-variant
+font-variant-caps
+font-weight
+gap
+grid
+grid-area
+grid-auto-columns
+grid-auto-flow
+grid-auto-rows
+grid-column
+grid-column-end
+grid-column-start
+grid-row
+grid-row-end
+grid-row-start
+grid-template
+grid-template-areas
+grid-template-columns
+grid-template-rows
+hanging-punctuation
+height
+hyphens
+hyphenate-character
+image-rendering
+@import
+initial-letter
+inline-size
+inset
+inset-block
+inset-block-end
+inset-block-start
+inset-inline
+inset-inline-end
+inset-inline-start
+isolation
+justify-content
+justify-items
+justify-self
+@keyframes
+@layer
+left
+letter-spacing
+line-height
+list-style
+list-style-image
+list-style-position
+list-style-type
+margin
+margin-block
+margin-block-end
+margin-block-start
+margin-bottom
+margin-inline
+margin-inline-end
+margin-inline-start
+margin-left
+margin-right
+margin-top
+marker
+marker-end
+marker-mid
+marker-start
+mask
+mask-clip
+mask-composite
+mask-image
+mask-mode
+mask-origin
+mask-position
+mask-repeat
+mask-size
+mask-type
+max-block-size
+max-height
+max-inline-size
+max-width
+@media
+min-block-size
+min-inline-size
+min-height
+min-width
+mix-blend-mode
+@namespace
+object-fit
+object-position
+offset
+offset-anchor
+offset-distance
+offset-path
+offset-position
+offset-rotate
+opacity
+order
+orphans
+outline
+outline-color
+outline-offset
+outline-style
+outline-width
+overflow
+overflow-anchor
+overflow-wrap
+overflow-x
+overflow-y
+overscroll-behavior
+overscroll-behavior-block
+overscroll-behavior-inline
+overscroll-behavior-x
+overscroll-behavior-y
+padding
+padding-block
+padding-block-end
+padding-block-start
+padding-bottom
+padding-inline
+padding-inline-end
+padding-inline-start
+padding-left
+padding-right
+padding-top
+@page
+page-break-after
+page-break-before
+page-break-inside
+paint-order
+perspective
+perspective-origin
+place-content
+place-items
+place-self
+pointer-events
+position
+@property
+quotes
+resize
+right
+rotate
+row-gap
+scale
+@scope
+scroll-behavior
+scroll-margin
+scroll-margin-block
+scroll-margin-block-end
+scroll-margin-block-start
+scroll-margin-bottom
+scroll-margin-inline
+scroll-margin-inline-end
+scroll-margin-inline-start
+scroll-margin-left
+scroll-margin-right
+scroll-margin-top
+scroll-padding
+scroll-padding-block
+scroll-padding-block-end
+scroll-padding-block-start
+scroll-padding-bottom
+scroll-padding-inline
+scroll-padding-inline-end
+scroll-padding-inline-start
+scroll-padding-left
+scroll-padding-right
+scroll-padding-top
+scroll-snap-align
+scroll-snap-stop
+scroll-snap-type
+scrollbar-color
+shape-outside
+@starting-style
+@supports
+tab-size
+table-layout
+
+
+text-decoration
+text-decoration-color
+text-decoration-line
+text-decoration-style
+text-decoration-thickness
+text-emphasis
+text-emphasis-color
+text-emphasis-position
+text-emphasis-style
+text-indent
+text-justify
+text-orientation
+text-overflow
+text-shadow
+text-transform
+text-underline-offset
+text-underline-position
+top
+transform
+transform-origin
+transform-style
+transition
+transition-delay
+transition-duration
+transition-property
+transition-timing-function
+translate
+unicode-bidi
+user-select
+vertical-align
+visibility
+white-space
+widows
+width
+word-break
+word-spacing
+word-wrap
+writing-mode
+z-index
+zoom
